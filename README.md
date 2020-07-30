@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### React project : City Tours, following Udemy course by John Smilga
+### deployed on Netlify :https://city-tours-reactjs-project.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
