@@ -7,10 +7,11 @@ $mainBlack: #222;
 $mainGreen: #82b340;
 $mainWhite: #fff;
 $mainGrey: #ecececd5;
+$mainLightGrey: rgb(241, 229, 229);
 $mainTransition: all 0.2s linear;
 
 body {
   font-family: "Open Sans", sans-serif;
-  background: $mainWhite;
+  background: $mainLightGrey;
   color: $mainBlack;
 }
